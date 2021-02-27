@@ -1,0 +1,63 @@
+.layout{
+	height: 364px; 
+	width: 400px;
+	margin: auto;
+	border: 1px solid white;
+	border-radius:01px 20px 0px 0px;
+	box-shadow: 0px 5px  40px black;
+	margin-top: 60px;
+}
+.sreen{
+	height:100px;
+	width:400px;
+	border:4px solid black;
+	border-radius:10px;
+	box-shadow: 10px 5px  40px black;
+	background: black;
+}
+.sreen .display{
+	height:80px;
+	width: 390px;
+	border: 6px solid black;
+	background: white;
+	text-align:center;
+		
+}
+		
+.button .a input {
+	height:50px;
+	width:97px;
+	background:green;
+	margin-top:1px;
+	border-radius:20px;
+}
+		
+.button .b input {
+	height:50px;
+	width:97px;
+	margin-top:1px;
+	background:green;
+	border-radius:20px;
+}
+.button .c input {
+	padding: 5px;
+	height:50px;
+	width:97px;
+	background:green;
+	margin-top:1px;
+	border-radius:20px;
+}
+.button .d input {
+	height:50px;
+	width:97px;
+	background:green;
+	margin-top:1px;
+	border-radius:20px;
+}
+.button .e input {
+	height:50px;
+	background:green;
+	width:97px;
+	margin-top:1px;
+	border-radius:20px;
+}
